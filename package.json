@@ -2,4 +2,7 @@
   "dependencies": {
     "@splidejs/splide": "^4.1.4"
   }
+  "scripts": {
+    "start": "node ./bin"
+  },
 }
